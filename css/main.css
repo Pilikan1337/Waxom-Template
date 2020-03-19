@@ -992,6 +992,10 @@ color: #8c8c8c;
   text-decoration: none;
 }
 
+.partners-mobile {
+  display:none;
+}
+
 .footer {
     display: flex;
     padding: 80px 375px 80px 375px;
